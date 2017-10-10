@@ -1,7 +1,6 @@
 #pragma once
 #include "AVLtree.h"
 #include <fstream>
-#include <regex>
 
 template<typename T>
 class Multiset
